@@ -1,0 +1,5 @@
+# Sim-Handpy 桌面版 - 可选依赖（安装失败不影响核心功能）
+# PyAudio: 用于检测电脑麦克风（代码内已做缺失保护，新版 Python 可能无预编译包）
+PyAudio>=0.2.11
+# Pillow: 仅录屏脚本 record_demo.py / record_thonny.py 使用
+Pillow>=9.0.0

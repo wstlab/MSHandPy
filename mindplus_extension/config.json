@@ -1,0 +1,25 @@
+{
+    "name": {
+        "zh-cn": "虚拟掌控板",
+        "en": "Virtual mPython"
+    },
+    "description": {
+        "zh-cn": "通过网络连接虚拟掌控板，支持OLED显示、按键、传感器等功能",
+        "en": "Connect to virtual mPython board via network, supports OLED display, buttons, sensors"
+    },
+    "author": "mpython",
+    "email": "mpython@example.com",
+    "license": "MIT",
+    "isBoard": false,
+    "id": "virtual_mpython",
+    "version": "1.0.0",
+    "platform": ["win"],
+    "asset": {
+        "javascript": {
+            "version": "1.0.0",
+            "dir": "javascript/",
+            "board": [],
+            "main": "main.js"
+        }
+    }
+}

@@ -1,0 +1,6 @@
+# Sim-Handpy 桌面版 - 核心依赖（全部提供 Windows 预编译 wheel，pip 必装成功）
+numpy>=1.18.5
+opencv-python>=4.4.0
+psutil>=5.7.2
+wmi>=1.5.1
+pyserial>=3.5
